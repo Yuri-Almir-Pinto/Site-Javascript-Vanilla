@@ -1,1 +1,1 @@
-Um site puro usando javascript e Bootstrap.
+Um site usando Javascript puro e Bootstrap.
